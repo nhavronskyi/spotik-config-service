@@ -1,5 +1,6 @@
-spring:
-  datasource:
-    url: jdbc:postgresql://localhost:5432/postgres
-    username: postgres
-    password: rootroot
+db:
+  url: jdbc:postgresql://localhost:5432/postgres
+  user: postgres
+  password: rootroot
+  driver: org.postgresql.Driver
+  dialect: org.hibernate.dialect.PostgreSQLDialect
