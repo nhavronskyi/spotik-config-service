@@ -7,8 +7,6 @@ spring:
   cloud:
     config:
       server:
-        native:
-          search-locations: file:///Users/nhavronskyi/Documents/git/spotik/spotik-config-service/src/main/resources/config
         git:
           uri: https://github.com/nhavronskyi/property-files.git
           username: nhavronskyi
