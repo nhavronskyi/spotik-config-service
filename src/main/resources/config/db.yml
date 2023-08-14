@@ -1,6 +1,0 @@
-db:
-  url: jdbc:postgresql://localhost:5432/postgres
-  user: postgres
-  password: rootroot
-  driver: org.postgresql.Driver
-  dialect: org.hibernate.dialect.PostgreSQLDialect
