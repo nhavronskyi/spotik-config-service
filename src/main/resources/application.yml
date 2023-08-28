@@ -8,6 +8,6 @@ spring:
     config:
       server:
         git:
-          uri: https://github.com/nhavronskyi/property-files.git
-          username: nhavronskyi
+          uri: ${uri_to_folder}
+          username: ${git_username}
           password: ${git_token}
