@@ -1,6 +1,13 @@
 # spotik-config-service
 
-<h3>Welcome to the Spotik config service</h3>
+<h3>Overview: Spotik</h3>
+<p>
+Team project where we wanted to create an API and telegram bot that could show you
+information about your Spotify account and filter your account from artists by
+chosen countries.
+</p>
+
+<h2>Welcome to the Spotik config service</h2>
 Here you should configure how properties will be shared:
 
 
